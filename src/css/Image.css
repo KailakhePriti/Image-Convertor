@@ -1,0 +1,15 @@
+.image_block{
+  
+   padding: 20px;
+    /* background-color: cadetblue; */
+}
+.img_text{
+    font-weight: 900;
+    font-size: 50px;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    font-family: Segoe Script;
+    border: 2px solid black;
+    box-shadow: 10px 10px 2px 0px #B8E7B7;
+}
